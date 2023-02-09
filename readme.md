@@ -1,0 +1,1 @@
+Olá, esse projeto é uma página de aprendizado do projeto Desenvolve 2023.
